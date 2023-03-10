@@ -4,12 +4,11 @@ import News from "./components/News";
 import React, { Component } from "react";
 
 class App extends Component {
-  c = "Sam";
   render() {
     return (
       <div>
         <Navbar />
-        <News />
+        <News pageSize={9} country="in" category="sports" />
       </div>
     );
   }
