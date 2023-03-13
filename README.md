@@ -7,20 +7,17 @@ d.Health<br>
 e.Science<br>
 f.Sports<br>
 g.Technology<br>
-
 <br>
-<br>
-<b>Overview of NewsMonkey:</b> <br>
 <i>Components used in the App are:</i><br>
 1.Function Based Component.<br>
 2.react-inifinte-scroll-component<br>
 3.react-top-loading-bar.<br>
 <br>
 
-To run React App use: npm start
+To run React App use: <b>npm start</b>
 <br>
 <br>
-<b>Snapshot</b>
+<b>Snapshot: </b>
 <img width="1022" alt="Screenshot 2023-03-13 at 12 14 00 PM" src="https://user-images.githubusercontent.com/84762358/224627159-bd362a17-79c9-4197-a6e5-6d326f513977.png"><br>
 
 
