@@ -1,4 +1,4 @@
-<b>NewsMonkey</b> is a <b>React</b> App that helps you to stay upto date about current happenings in the world in various categories including:
+<b>NewsMonkey</b> is a <b>React</b> App that helps you stay upto date about current happenings in the world in various categories including:
 <br>
 a.Business<br>
 b.Entertainment<br>
