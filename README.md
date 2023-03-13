@@ -19,8 +19,9 @@ g.Technology<br>
 
 To run React App use: npm start
 <br>
-<b><Snapshots></b>
-<img src="<img width="1022" alt="Screenshot 2023-03-13 at 12 14 00 PM" src="https://user-images.githubusercontent.com/84762358/224627159-bd362a17-79c9-4197-a6e5-6d326f513977.png"><br>
+<br>
+<b>Snapshot</b>
+<img width="1022" alt="Screenshot 2023-03-13 at 12 14 00 PM" src="https://user-images.githubusercontent.com/84762358/224627159-bd362a17-79c9-4197-a6e5-6d326f513977.png"><br>
 
 
 
